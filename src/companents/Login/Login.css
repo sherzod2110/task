@@ -1,0 +1,50 @@
+.login-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 31px;
+  color: #000000;
+  margin: 0;
+}
+
+.login-inp {
+  width: 450px;
+  height: 70px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  outline: none;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.login-inp-2 {
+  width: 450px;
+  height: 70px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  outline: none;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.login-btn {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  width: 450px;
+  height: 60px;
+  background: #1da1f2;
+  border-radius: 76px;
+  border: none;
+  margin-top: 10px;
+}
+
+.login {
+  width: 450px;
+}
